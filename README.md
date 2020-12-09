@@ -1,4 +1,9 @@
 # Application Purpose
+1. Name: Daniel Dinh
+2. Student ID: 2376135
+3. Email: dadinh@chapman.edu
+4. Class: CPSC-298
+5. Assignment: cars
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
